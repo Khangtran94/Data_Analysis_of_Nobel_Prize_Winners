@@ -75,8 +75,11 @@ The dataset has **1000 rows** and **8 columns**
 
 
 ## **BONUS** Vietnam:
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/89207e6f-896d-4796-96b3-eee2fb4e19d0)
 
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/edc38ec6-525e-4b7c-a889-2fe4aebbcb71)
 
+* Lê Đức Thọ, though he declined the award, remains the only Vietnamese person officially awarded the Nobel Peace Prize.
 
 
 
