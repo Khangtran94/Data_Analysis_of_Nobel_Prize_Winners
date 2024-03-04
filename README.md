@@ -51,7 +51,7 @@ The dataset has **1000 rows** and **8 columns**
 * Among the 5 people, 3 people won 2 awards in one category, the remaining 2 won 2 times, each in a different category.
 * **Marie Curie**: remains the only individual, and the only woman, to win Nobel Prizes in two distinct scientific fields.
 * **Linus Pauling**: The only other person to win Nobel Prizes in two different fields.
-* The longest recorded gap between consecutive Nobel Prize wins in any category is 22 years
+* The longest recorded gap between consecutive Nobel Prize wins in any category is 27 years.
 
 ### 7. Maximum age, Minimum age of winners by gender:
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/9d0d7b71-cd9e-4853-b114-2be75f889952)
