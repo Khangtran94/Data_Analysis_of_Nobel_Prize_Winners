@@ -31,29 +31,50 @@ The dataset has **1000 rows** and **8 columns**
 * Female: Peace and Literature accounts for the most.
   
 ### 3. Trend of female winners for each category:
-![image](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/5d9ff17a-4c27-404e-960d-35f49de7c603)
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/3c1be63c-2eaa-4e85-82d1-05a7524ae6e5)
 
 ### 4. Winners by each Country
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/9ec7d434-317e-49a1-8ffb-2fbc1ed028f1)
 
+* The most common Nobel Prize winners was born in the United States of America
+
 ### 5. Winners from USA:
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/833f9c7c-0b99-4a63-8c63-b5914aa15bd9)
 
+* The USA became the dominating winner of the Nobel Prize first in the 1930s and had kept the leading position ever since
+
 ### 6. Who win more than once:
-![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/dec51fd5-bc9e-414b-aad4-fb7af7af88c7)
-![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/4c3e6fdb-e45d-4cda-9da5-475bfac3aef9)
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/48d4dcfa-f102-4ae3-ae76-b479a1bc671f)
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/673d2e8c-467a-4866-a36d-8e315b38b2e5)
+
+* 5 individuals and 2 organizations won more than one Nobel Prize.
+* Among the 5 people, 3 people won 2 awards in one category, the remaining 2 won 2 times, each in a different category.
+* **Marie Curie**: remains the only individual, and the only woman, to win Nobel Prizes in two distinct scientific fields.
+* **Linus Pauling**: The only other person to win Nobel Prizes in two different fields.
+* The longest recorded gap between consecutive Nobel Prize wins in any category is 22 years
 
 ### 7. Maximum age, Minimum age of winners by gender:
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/9d0d7b71-cd9e-4853-b114-2be75f889952)
+![image](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/ed4f6b81-9c80-4230-8eda-b75d37c4f1a2)
+
+* The oldest male Nobel Prize winner was 97 years old, followed by the oldest female winner at 88 years old.
+* The youngest male Nobel Prize winner was 25 years old, while the youngest female winner was 17 years old.
 
 ### 8. Age trends:
 * Overall:
+
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/557f7d5c-7b55-4e20-8839-c7c4effd4390)
   
 * By gender:
+  
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/91fa7680-0096-4d5c-97d4-cd1c08f21189)
 
 * By each category:
+
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/0d37f5a7-7488-4f16-bdd9-7d7544d5c74c)
+
+
+## **BONUS** Vietnam:
 
 
 
