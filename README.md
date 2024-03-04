@@ -40,6 +40,17 @@ The dataset has **1000 rows** and **8 columns**
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/dec51fd5-bc9e-414b-aad4-fb7af7af88c7)
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/4c3e6fdb-e45d-4cda-9da5-475bfac3aef9)
 
+### 7. Maximum age, Minimum age of winners by gender:
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/9d0d7b71-cd9e-4853-b114-2be75f889952)
+
+### 8. Age trends:
+* Overall:
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/557f7d5c-7b55-4e20-8839-c7c4effd4390)
+  
+* By gender:
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/91fa7680-0096-4d5c-97d4-cd1c08f21189)
+
+* By each category:
 
 
 
