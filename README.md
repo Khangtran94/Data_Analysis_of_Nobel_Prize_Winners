@@ -21,14 +21,17 @@ The dataset has **1000 rows** and **8 columns**
 ### 1. Winners by Gender | Type
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/032352f2-799d-4469-987c-e92b3c643fd3)
 
-* Most of winner is Male.
-* Organization account just a litter of winner distribution
+* There are more male winners than female winners
+* There are more individual winners than organizational winners.
 
 ### 2. Winners by each Category
 ![image](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/ca989c94-d4f2-406d-a18b-51b1797ccc6d)
-
-### 3. Female Winners Trend for each Category:
-![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/40835773-7cfe-46e4-8f94-91afb7aea024)
+* Medicine, Physics, Chemistry have the most winners.
+* Male:  Medicine, Physics, Chemistry still dominate.
+* Female: Peace and Literature accounts for the most.
+  
+### 3. Trend of female winners for each category:
+![image](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/5d9ff17a-4c27-404e-960d-35f49de7c603)
 
 ### 4. Winners by each Country
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/9ec7d434-317e-49a1-8ffb-2fbc1ed028f1)
