@@ -55,7 +55,8 @@ The dataset has **1000 rows** and **8 columns**
 
 ### 7. Maximum age, Minimum age of winners by gender:
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/9d0d7b71-cd9e-4853-b114-2be75f889952)
-![image](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/ed4f6b81-9c80-4230-8eda-b75d37c4f1a2)
+
+<img width="890" alt="image" src="https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/1f7dac7e-c12e-4b60-b629-cab6169f7c81">
 
 * The oldest male Nobel Prize winner was 97 years old, followed by the oldest female winner at 88 years old.
 * The youngest male Nobel Prize winner was 25 years old, while the youngest female winner was 17 years old.
