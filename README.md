@@ -65,6 +65,8 @@ The dataset has **1000 rows** and **8 columns**
 * Overall:
 
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/557f7d5c-7b55-4e20-8839-c7c4effd4390)
+
+* The age trend of the winners is gradually increasing
   
 * By gender:
   
@@ -81,7 +83,4 @@ The dataset has **1000 rows** and **8 columns**
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/edc38ec6-525e-4b7c-a889-2fe4aebbcb71)
 
 * Lê Đức Thọ, though he declined the award, remains the only Vietnamese person officially awarded the Nobel Peace Prize.
-
-
-
-
+* According to the internet, Lê Đức Thọ also was the first Asian to be nominated for the Nobel Peace Prize.
