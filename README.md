@@ -33,7 +33,7 @@ The dataset has **1000 rows** and **8 columns**
 ### 3. Trend of female winners for each category:
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/3c1be63c-2eaa-4e85-82d1-05a7524ae6e5)
 
-### 4. Winners by each Country
+### 4. Winners by each Country:
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/9ec7d434-317e-49a1-8ffb-2fbc1ed028f1)
 
 * The most common Nobel Prize winners was born in the United States of America
