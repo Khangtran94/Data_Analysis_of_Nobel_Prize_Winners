@@ -45,7 +45,7 @@ The dataset has **1000 rows** and **8 columns**
 
 ### 6. Who win more than once:
 ![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/48d4dcfa-f102-4ae3-ae76-b479a1bc671f)
-![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/673d2e8c-467a-4866-a36d-8e315b38b2e5)
+![Untitled](https://github.com/Khangtran94/Data_Analysis_of_Nobel_Prize_Winners/assets/146164801/e9eec8bb-5bb3-47bc-8981-f43ee9130641)
 
 * 5 individuals and 2 organizations won more than one Nobel Prize.
 * Among the 5 people, 3 people won 2 awards in one category, the remaining 2 won 2 times, each in a different category.
